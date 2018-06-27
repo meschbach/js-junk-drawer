@@ -1,11 +1,13 @@
-# JS Utils
+# Repository moved.
 
-The junk drawer of NodeJS utilities I've had to repeatedly write.
+This repository has moved to: https://github.com/meschbach/js-junk-bucket .
 
-## Accumulated Junk
+I decided to rename this repository since I published this code on NPM and the name unsurprisingly wasn't available.
+Please updating your references.
 
-* [Async utilties](index.js)
-* [Express Enhancements](express.js)
-* [CouchDB async wrapper](couchdb.js)
-* [Future](future.js)
+## Dates of deletion
 
+These are likely to change at my whim.
+
+July -- Code will be deleted from the repository
+September -- Repository will be deleted.
